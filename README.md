@@ -4,7 +4,7 @@
 This repository contains four assembly programs developed as part of the ICS3203 CAT 2 practical assignment. Each program demonstrates specific assembly language techniques such as control flow, array manipulation, modular programming, and port-based simulations.
 
 ## Repository Structure
-ICS3203-CAT2-Assembly-<Nduati Ryan Njoroge-152090>
+ICS3203-CAT2-Assembly-<ChikuroMbaji-151947>
 │
 ├── README.md
 ├── task1.asm  # Control Flow and Conditional Logic
